@@ -3,8 +3,7 @@
 
 # Travel cost calculator - mobile application
 
-This is my first simple application made with React Native and android Studio.
-The application is a calculator of average costs related to fuel consumption
+Travel cost calculator is a mobile application that allows users to calculate and track their fuel consumption and travel costs. Built with React Native and android Studio, this application is user-friendly and easy to use. The main features of the application include the ability to calculate fuel consumption, average fuel consumption, travel costs, and average fuel consumption/distance/cost all results. Users can also add or remove new trips to keep track of their expenses. This application is perfect for anyone who wants to keep track of their fuel consumption and travel costs in an organized and efficient way
 
 ## Main Features
 #### Calculation of fuel consumption. 
